@@ -1,3 +1,3 @@
 # react-webpack-starter
-npm i
-npm start
+# npm i
+# npm start
